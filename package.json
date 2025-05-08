@@ -2,7 +2,7 @@
   "name": "figma-linux-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron .",
     "dist": "electron-builder",
