@@ -1,0 +1,26 @@
+{
+  "name": "figma-linux-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdirDiz/figma-linux-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdirDiz/figma-linux-app/issues"
+  },
+  "homepage": "https://github.com/AdirDiz/figma-linux-app#readme",
+  "devDependencies": {
+    "electron": "^36.2.0",
+    "electron-builder": "^24.14.1"
+  }
+}
